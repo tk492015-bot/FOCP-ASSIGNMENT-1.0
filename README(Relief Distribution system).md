@@ -190,8 +190,8 @@ Screenshots:
      
      |     Name                 |  CMS-ID  |  Contribution  |
     1. Muhammad Talha Saud Khan    606424     C++ code/README file/Ms word doc
-    2. Fahad Hasan                            C++ code/Ms word doc
-    3. Muhammad Abdullah                      Flowchart/Ms word doc
+    2. Fahad Hasan                 609204     C++ code/Flowchart/Ms word doc
+    3. Muhammad Abdullah           584882     Flowchart/Ms word doc
 
 6) Git Repo Link:
                  https://github.com/tk492015-bot/FOCP-ASSIGNMENT-1.0
