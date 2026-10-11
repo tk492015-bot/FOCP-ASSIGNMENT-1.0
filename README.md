@@ -103,7 +103,8 @@ Summary:
         Trucks left = 0
 Supply-packets left = 0
 
-<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/e23e7709-66c4-4345-ace9-36b3f4dc86c6" />
+Screenshots:
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/e23e7709-66c4-4345-ace9-36b3f4dc86c6" /> Request-1
 
 
 Test-result-2:
