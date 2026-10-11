@@ -170,14 +170,18 @@ Screenshots:
 5) Names of Group memebers and thier contributions:
      
      |     Name                          |   CMS-ID            |        Contribution  |
+   
     1. Muhammad Talha Saud Khan      |        606424           |         C++ code/README file/Ms word doc
+       
     2. Fahad Hasan                    |       609204            |        C++ code/Flowchart/Ms word doc
+     
     3. Muhammad Abdullah              |        584882            |       Flowchart/Ms word doc
+       
 
-6) Git Repo Link:
+7) Git Repo Link:
                  https://github.com/tk492015-bot/FOCP-ASSIGNMENT-1.0
 
-7) Use of AI:
+8) Use of AI:
              We used AI to Understand concepts,Learn new things and Detect Errors in our program.
 
 
