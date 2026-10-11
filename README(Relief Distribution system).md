@@ -56,40 +56,28 @@ Previous aid:
 If an area recieved a previous aid it will recieve 2-points and if it did not get any previous aid it will get 1-point this is because the area that recieved a previous aid will half the need score and area that did not recieve any previous aid will keep the need score unchanged.
 
 4)Test results:
-                      |     Requests       |  Damage  |  Families  |  Route  |  Flood warning  |  Medical need  |  Previous aid  |
-                       R1-Riverside village    High        150       Damaged         Yes               Yes               No
-                       R2-Hilltop settlement  Medium       60         Open           No                No                Yes
-                       R3-Lakeside Camp        High        90         Open           Yes               Yes               Yes
-                       R4-Market town          Low         200        Open           No                No                No   
-                       R5-Bridge colony        High        40        Damaged         Yes               Yes               Yes
+      |     Requests       |  Damage  |  Families  |  Route  |  Flood warning  |  Medical need  |  Previous aid  |
+       R1-Riverside village    High        150       Damaged         Yes               Yes               No
+       R2-Hilltop settlement  Medium       60         Open           No                No                Yes
+       R3-Lakeside Camp        High        90         Open           Yes               Yes               Yes
+       R4-Market town          Low         200        Open           No                No                No   
+       R5-Bridge colony        High        40        Damaged         Yes               Yes               Yes
 
 Test-result-1:
               resources : Trucks = 5 , Supply-packets = 120
 
 R1:
-   Need score(total score) = 6000
-            Priority level = High
-                    Action = Full-Relief   
-                Truck used = 2
-               Supply used = 50
+   Need score(total score) = 6000 |  Priority level = High |  Action = Full-Relief   | Truck used = 2| Supply used = 50
+             
 R2:
-   Need score(total score) = 270
-            Priority level = Extremely low
-                    Action = Defer/Monitor   
-                Truck used = 0
-               Supply used = 0
+Need score(total score) = 270 |  Priority level = Extremely low |  Action = Defer/Monitor  | Truck used = 0| Supply used = 0
+           
 R3:
-   Need score(total score) = 2700
-            Priority level = Medium
-                    Action = Standard-Relief   
-                Truck used = 1
-               Supply used = 30
+Need score(total score) = 2700 |  Priority level = Medium |  Action = Standard-Relief  | Truck used = 1| Supply used = 30
+          
 R4:
-   Need score(total score) = 450
-            Priority level = Low
-                    Action = Emergency kit only   
-                Truck used = 1
-               Supply used = 10
+   Need score(total score) = 450 |  Priority level = Low |  Action = Emergency kit only  | Truck used = 1| Supply used = 10
+          
 R5:
    Need score(total score) = 1500
             Priority level = Medium
