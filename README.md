@@ -107,6 +107,24 @@ Screenshots:
 <img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/e23e7709-66c4-4345-ace9-36b3f4dc86c6" />                                  
 
                                                     Request-1
+
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/fc273dd4-f284-4e92-9d95-bd67dd024a2c" />
+
+                                                    Request-2
+
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/5c680d42-795e-4910-9235-a35e25186909" />
+
+                                                    Request-3
+
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/9b50975c-e13a-4d76-b884-c27c8472441a" />
+
+                                                    Request-4
+
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/7ef52646-2287-43a1-a438-041e30d713a1" />
+
+                                                    Request-5/Summary
+
+
 Test-result-2:
               resources : Trucks = 3, Supply-packets = 60
 
@@ -141,6 +159,31 @@ Summary:
            Deferred = 3
         Trucks left = 0
 Supply-packets left = 0
+
+Screenshots:
+<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/7da8e65b-0acb-4f2b-b189-50f8c792ed71" />
+
+                                                     Request-1
+
+<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/2c864d78-d372-4ba9-b5e7-ec7ad29e52f9" />
+
+                                                      Request-2
+
+<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/46aa478a-02bd-4e71-b0c5-51473d0d2ef0" />
+
+                                                      Request-3
+
+<img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/22ad7c17-8418-412e-aeda-f1cb1cfea4da" />
+
+                                                      Request-4
+
+<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/126e2cbe-26d0-48e5-9adb-4b21b42dc11b" />
+
+                                                      Request-5
+
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/0d914a7a-303f-4759-95c9-34627504d162" />
+
+                                                     Total Requests
 
 
 5) Names of Group memebers and thier contributions:
