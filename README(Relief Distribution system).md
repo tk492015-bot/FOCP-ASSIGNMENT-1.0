@@ -57,11 +57,17 @@ If an area recieved a previous aid it will recieve 2-points and if it did not ge
 
 4)Test results:
       |     Requests       |  Damage  |  Families  |  Route  |  Flood warning  |  Medical need  |  Previous aid  |
-       R1-Riverside village    High        150       Damaged         Yes               Yes               No
-       R2-Hilltop settlement  Medium       60         Open           No                No                Yes
-       R3-Lakeside Camp        High        90         Open           Yes               Yes               Yes
-       R4-Market town          Low         200        Open           No                No                No   
-       R5-Bridge colony        High        40        Damaged         Yes               Yes               Yes
+
+ R1-Riverside village |   High   |    150    |   Damaged    |     Yes      |         Yes       |        No
+ 
+R2-Hilltop settlement | Medium   |    60     |    Open      |     No       |         No       |         Yes
+
+ R3-Lakeside Camp    |    High     |   90     |    Open      |     Yes      |        Yes       |        Yes
+ 
+R4-Market town      |    Low      |   200     |   Open      |     No       |         No       |         No  
+
+ R5-Bridge colony     |   High     |   40     |   Damaged    |     Yes      |         Yes      |         Yes
+ 
 
 Test-result-1:
               resources : Trucks = 5 , Supply-packets = 120
