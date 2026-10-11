@@ -79,16 +79,12 @@ R4:
    Need score(total score) = 450 |  Priority level = Low |  Action = Emergency kit only  | Truck used = 1| Supply used = 10
           
 R5:
-   Need score(total score) = 1500
-            Priority level = Medium
-                    Action = Standard-Relief    
-                Truck used = 1
-               Supply used = 30
+   Need score(total score) = 1500 | Priority level = Medium | Action = Standard-Relief Truck used = 1 | Supply used = 30
 
 Summary:
-             Served = 4
-           Deferred = 1
-        Trucks left = 0
+             Served = 4 | 
+           Deferred = 1 | 
+        Trucks left = 0 |
 Supply-packets left = 0
 
 Screenshots:
@@ -117,36 +113,27 @@ Test-result-2:
               resources : Trucks = 3, Supply-packets = 60
 
 R1:
-   Need score(total score) = 6000
-            Priority level = High
-                    Action = Full-Relief   
-                    Reason = Sufficient resources
+   Need score(total score) = 6000 | Priority level = High | Action = Full-Relief | Reason = Sufficient resources
+           
+                    
+                   
 R2:
-   Need score(total score) = 270
-            Priority level = Extremely low
-                    Action = Defer/Monitor   
-                    Reason = Low need
+   Need score(total score) = 270 | Priority level = Extremely low | Action = Defer/Monitor  |  Reason = Low need
+                       
 R3:
-   Need score(total score) = 2700
-            Priority level = Medium to Low
-                    Action = Emergency kit only   
-                    Reason = Standard not possible due low resources
+   Need score(total score) = 2700 |  Priority level = Medium to Low | Action = Emergency kit only  |  Reason = Standard-Relief not possible due to low resources
+   
 R4:
-   Need score(total score) = 450
-            Priority level = Low to Extremely Low
-                    Action = Defer/Monitor  
-                    Reason = Insufficient resources
+   Need score(total score) = 450 | Priority level = Low to Extremely Low | Action = Defer/Monitor | Reason = Insufficient resources
+                  
 R5:
-   Need score(total score) = 1500
-            Priority level = Medium to Low to Extremely low
-                    Action = Defer/Monitor    
-                    Reason = Insufficient resources
-
+   Need score(total score) = 1500| Priority level = Medium to Low to Extremely low |  Action = Defer/Monitor|  Reason = Insufficient resources
+           
 Summary:
-             Served = 2
-           Deferred = 3
-        Trucks left = 0
-Supply-packets left = 0
+          |   Served = 2
+         |  Deferred = 3
+      |  Trucks left = 0
+| Supply-packets left = 0
 
 Screenshots:
 <img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/7da8e65b-0acb-4f2b-b189-50f8c792ed71" />
